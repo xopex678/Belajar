@@ -5,10 +5,10 @@ index.html
   <head>
     <h1>BELAJAR HTML</h1>
     <h2>Login</h2>
-    <form action"/action_pagr.php">
+    <form action"/action_page.php">
       <label for="username">Username:</label>
-      <input type="text" id="username" name="username"><br><br>
-      <input type="submit" value="submit"><br><br>
+      <input type="text" id="username" name="username">
+      <input type="submit" value="submit">
     </form>
   </head>
 </html>
